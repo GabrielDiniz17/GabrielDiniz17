@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me [...](https://www.linkedin.com/in/gabriel-d-11816bb4/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: i'm silver in league of legends, but i played how gold xD
+- ⚡ Fun fact: i'm silver in league of legends, but i play how gold xD
 
 <!---
 GabrielDiniz17/GabrielDiniz17 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
